@@ -1,0 +1,7 @@
+## Conclusiones
+
+- Se identificaron los paquetes de fiestas más solicitados.
+- Se calculó la tasa de conversión de cotizaciones a ventas.
+- Se analizaron ventas estimadas por sucursal.
+- Se observó el comportamiento mensual de las cotizaciones.
+- El análisis permite detectar oportunidades comerciales y mejorar estrategias de seguimiento.

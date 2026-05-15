@@ -1,0 +1,16 @@
+id_cotizacion,fecha,sucursal,paquete,num_invitados,monto_estimado,estatus,medio_contacto
+1,2024-01-10,Ecatepec,Paquete Básico,20,4500,Vendida,Web
+2,2024-01-15,Coacalco,Paquete Premium,35,8500,Cotizada,WhatsApp
+3,2024-02-03,Satélite,Paquete Plus,30,6500,Vendida,Web
+4,2024-02-14,Ecatepec,Paquete Premium,40,9200,Vendida,Sucursal
+5,2024-02-20,Naucalpan,Paquete Básico,18,4200,Cancelada,WhatsApp
+6,2024-03-05,Coacalco,Paquete Plus,28,6100,Cotizada,Web
+7,2024-03-12,Satélite,Paquete Premium,45,9800,Vendida,Instagram
+8,2024-03-22,Ecatepec,Paquete Básico,22,4800,Vendida,Web
+9,2024-04-02,Naucalpan,Paquete Plus,32,7000,Cotizada,Sucursal
+10,2024-04-18,Coacalco,Paquete Premium,38,8900,Vendida,WhatsApp
+11,2024-05-04,Satélite,Paquete Básico,25,5000,Vendida,Web
+12,2024-05-19,Ecatepec,Paquete Plus,30,6600,Cancelada,Instagram
+13,2024-06-01,Naucalpan,Paquete Premium,42,9500,Vendida,Web
+14,2024-06-09,Coacalco,Paquete Básico,20,4600,Cotizada,WhatsApp
+15,2024-06-16,Satélite,Paquete Plus,34,7200,Vendida,Sucursal
